@@ -2,21 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-07-06T15:23:19+08:00</lastmod>
+    <loc>https://zlong.work/posts/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
-    <lastmod>2026-07-06T15:23:19+08:00</lastmod>
+    <loc>https://zlong.work/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-07-06T15:23:19+08:00</lastmod>
+    <loc>https://zlong.work/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://zlong.work/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://zlong.work/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://zlong.work/</loc>
   </url>
 </urlset>

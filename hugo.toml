@@ -1,5 +1,5 @@
 # ================= 网站基础信息 =================
-baseURL = "https://yourdomain.com/" # 部署成功后，请替换为您的实际网址
+baseURL = "https://zlong.work/" # 部署成功后，请替换为您的实际网址
 languageCode = "zh-cn"              # 网站语言
 title = "跳龙同学的技术博客"               # 网站标题
 theme = "PaperMod"                  # 使用的主题
@@ -22,14 +22,6 @@ theme = "PaperMod"                  # 使用的主题
 [params.homeInfoParams]
   Title = " 欢迎来到我的博客"
   Content = "在这里，我记录日常的技术探索与生活感悟。"
-
-# ================= 社交链接配置 =================
-[[params.socialIcons]]
-  name = "github"
-  url = "https://github.com/your-username"
-[[params.socialIcons]]
-  name = "twitter"
-  url = "https://twitter.com/your-username"
 
 # ================= 顶部导航栏菜单 =================
 [menu]
