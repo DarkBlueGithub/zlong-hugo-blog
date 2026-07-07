@@ -46,6 +46,7 @@ theme = "PaperMod"                  # 使用的主题
     url = "/search/"
     weight = 20
 
+timeZone = 'Asia/Shanghai'
 # ================= 开启站内搜索功能 =================
 [outputs]
   home = ["HTML", "RSS", "JSON"] # JSON 输出是搜索功能的基础
